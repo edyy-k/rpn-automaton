@@ -1,0 +1,5 @@
+# Compiled binary files
+/bin/
+
+# IDE and editor files
+/.vscode/
