@@ -14,10 +14,10 @@ The following test words are being used with their expected outputs:
 # Quick start
 
 Normal mode (only shows results):\
-`./main < test-input.txt`
+`./main < test-words.txt`
 
 Step mode (also shows each calculation step):\
-`./main --step-mode < test-input.txt`
+`./main --step-mode < test-words.txt`
 
 # Why?
 
