@@ -13,6 +13,8 @@ The following test words are being used with their expected outputs:
 
 # Quick start
 
+**Assumption:** Compiled to `/main`
+
 Normal mode (only shows results):\
 `./main < test-words.txt`
 
